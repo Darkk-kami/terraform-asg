@@ -1,4 +1,5 @@
 # Build a Scalable Web Application with Auto Scaling on AWS
+![asg](https://github.com/user-attachments/assets/c46385cb-050c-4e40-9103-89be07ce6fdf)
 
 ## Overview
 
